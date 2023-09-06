@@ -11,7 +11,7 @@
 ### Onde me encontrar
 
 - 📫 Entre em contato comigo: [brunaroberta1290@gmail.com](mailto:brunaroberta1290@gmail.com)
-- 💼 Conecte-se comigo no [LinkedIn]([https://www.linkedin.com/in/seu-nome-de-usuario/](https://www.linkedin.com/in/bruna-roberta-a46541285))
-- 💻 Confira meus projetos no [GitHub]([https://github.com/seu-nome-de-usuario](https://github.com/brunartt))
+- 💼 Conecte-se comigo no [LinkedIn](https://www.linkedin.com/in/bruna-roberta-a46541285)
+- 💻 Confira meus projetos no [GitHub](https://github.com/brunartt)
 
 Vamos construir algo incrível juntos! 💪
