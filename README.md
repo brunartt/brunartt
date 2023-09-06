@@ -1,16 +1,17 @@
-### Hi there 👋
+👋 Olá, sou Bruna Roberta!
 
-<!--
-**brunartt/brunartt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Sobre mim
 
-Here are some ideas to get you started:
+- 👨‍💻 Desenvolvedora de software apaixonada por resolver problemas e criar soluções.
+- 🌐 Experiencia em desenvolvimento web, incluindo HTML, CSS, JavaScript e frameworks como React e AnjularJS.
+- 🚀 Sempre em busca de aprender e explorar novas tecnologias e ferramentas.
+- 📚 Fascinada por aprendizado de máquina e inteligência artificial.
+- 🎯 Comprometida em escrever código limpo, eficiente e escalável.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Onde me encontrar
+
+- 📫 Entre em contato comigo: [brunaroberta1290@gmail.com](mailto:brunaroberta1290@gmail.com)
+- 💼 Conecte-se comigo no [LinkedIn]([https://www.linkedin.com/in/seu-nome-de-usuario/](https://www.linkedin.com/in/bruna-roberta-a46541285))
+- 💻 Confira meus projetos no [GitHub]([https://github.com/seu-nome-de-usuario](https://github.com/brunartt))
+
+Vamos construir algo incrível juntos! 💪
