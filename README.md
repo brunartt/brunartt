@@ -5,7 +5,6 @@
 - 👨‍💻 Desenvolvedora de software apaixonada por resolver problemas e criar soluções.
 - 🌐 Experiencia em desenvolvimento web, incluindo HTML, CSS, JavaScript e frameworks como React e AnjularJS.
 - 🚀 Sempre em busca de aprender e explorar novas tecnologias e ferramentas.
-- 📚 Fascinada por aprendizado de máquina e inteligência artificial.
 - 🎯 Comprometida em escrever código limpo, eficiente e escalável.
 
 ### Onde me encontrar
