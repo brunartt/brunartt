@@ -1,4 +1,4 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0d730d&height=120&section=header"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=300&color=ffcad4"/>
 <div align="center">
 <img src="https://readme-typing-svg.herokuapp.com?font=PT+Serif&weight=600&pause=1000&color=F4ACB7&width=435&lines=Me+chamo+Bruna+Roberta...;+Desenvolverora+FullStack...+;De+Recife+Brasil" alt="Typing SVG" />
 
