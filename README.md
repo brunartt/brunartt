@@ -1,15 +1,15 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0d730d&height=120&section=header"/>
-
 <div align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=27F732&background=C175FF00&width=600&height=60&separator=%3C&lines=Ol%C3%A1!+Sou+Bruna+Roberta+.+.+.%3CDesenvolvedora+Fullstack+.+.+.%3CDe+Recife%2C+Brasil">
+<img src="https://readme-typing-svg.herokuapp.com?font=PT+Serif&weight=600&pause=1000&color=F4ACB7&width=435&lines=Me+chamo+Bruna+Roberta...;+Desenvolverora+FullStack...+;De+Recife+Brasil" alt="Typing SVG" />
 
 <br><br><br>
 
 <div align="center">
   <a href="https://github.com/brunartt">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=brunartt&show_icons=true&theme=blue-green&rank_icon=github&include_all_commits=true">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brunartt&layout=compact">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=brunartt&theme=omni&show_icons=true&hide_border=true&count_private=true">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brunartt&theme=omni&show_icons=true&hide_border=true&layout=compact">
 </div>
+
 
 <hr>
 
