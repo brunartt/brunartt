@@ -36,10 +36,10 @@ Estou sempre aprendendo novas tecnologias e métodos para entregar **aplicaçõe
 ---
 
 ### 📊 Nível de domínio
-![Frontend](https://progress-bar.dev/90/?title=Frontend)
-![Backend](https://progress-bar.dev/75/?title=Backend)
-![Banco de dados](https://progress-bar.dev/70/?title=DB)
-![Dev Tools](https://progress-bar.dev/80/?title=DevTools)
+![Frontend](https://img.shields.io/badge/Frontend-90%25-brightgreen)
+![Backend](https://img.shields.io/badge/Backend-75%25-blue)
+![Banco de dados](https://img.shields.io/badge/DB-70%25-yellow)
+![Dev Tools](https://img.shields.io/badge/DevTools-80%25-orange)
 
 ---
 
