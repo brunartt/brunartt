@@ -11,16 +11,6 @@ Estou sempre aprendendo novas tecnologias e métodos para entregar **aplicaçõe
 - 🛠 **Ferramentas:** Git, GitHub, VS Code, Postman, Docker básico  
 - 🎯 Foco em **código limpo, organizado e escalável**  
 
----
-
-### 🚀 Projetos em destaque
-| Projeto | Tecnologias | Link |
-|---------|------------|------|
-| Projeto Web Fullstack | Next.js, Node.js, Express, MongoDB | [GitHub](https://github.com/brunartt) |
-| Dashboard Interativo | AngularJS, API REST | [GitHub](https://github.com/brunartt) |
-| Aplicativo de Notas | React, Firebase | [GitHub](https://github.com/brunartt) |
-
----
 
 ### 💻 Tecnologias e Skills
 
