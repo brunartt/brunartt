@@ -1,51 +1,57 @@
-# 👋 Olá, eu sou Bruna Roberta!
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0d730d&height=120&section=header"/>
 
-![Banner](https://c.tenor.com/8Ebk8vMptg4AAAAC/coding.gif)
+<div align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=27F732&background=C175FF00&width=600&height=60&separator=%3C&lines=Ol%C3%A1!+Sou+Bruna+Roberta+.+.+.%3CDesenvolvedora+Fullstack+.+.+.%3CDe+Recife%2C+Brasil">
 
-### Sobre mim
-Sou **desenvolvedora Fullstack** apaixonada por criar soluções completas e escaláveis.  
-Estou sempre aprendendo novas tecnologias e métodos para entregar **aplicações incríveis**.
+<br><br><br>
 
-- 👩‍💻 **Frontend:** HTML, CSS, JavaScript, React, AngularJS, Next.js  
-- ⚙️ **Backend:** Node.js, Express, Java, REST APIs, SQL  
-- 🛠 **Ferramentas:** Git, GitHub, VS Code, Postman, Docker básico  
-- 🎯 Foco em **código limpo, organizado e escalável**  
+<div align="center">
+  <a href="https://github.com/brunartt">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=brunartt&show_icons=true&theme=blue-green&rank_icon=github&include_all_commits=true">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brunartt&layout=compact">
+</div>
 
+<hr>
 
-### 💻 Tecnologias e Skills
+<p align="center" style="font-family: 'Courier New', Courier, monospace; color: #27F732;">
+<strong>💻 Desenvolvedora Fullstack com experiência em projetos web, integração com APIs e desenvolvimento backend em Java e Node.js. Sempre estudando, praticando e criando projetos para aprimorar minhas habilidades. 💻</strong>
+</p>
 
-**Frontend**
-![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JS-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+<hr>
 
-**Backend**
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-005C9E?style=for-the-badge&logo=postgresql&logoColor=white)
+<div align="center">
+  <h2>Tecnologias e Ferramentas</h2> 
 
-**Ferramentas**
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+  <img align="center" alt="Java" height="60" width="70" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/java.svg">
+  <img align="center" alt="JavaScript" height="60" width="70" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/javascript.svg">
+  <img align="center" alt="HTML5" height="60" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg">
+  <img align="center" alt="CSS3" height="60" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg">
+  <img align="center" alt="React" height="60" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg">
+  <img align="center" alt="Next.js" height="60" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original-wordmark.svg">
+  <img align="center" alt="Node.js" height="60" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg">
+  <img align="center" alt="SQL" height="60" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg">
+  <img align="center" alt="Git" height="60" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-plain.svg"> 
+  <img align="center" alt="GitHub" height="60" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg"> 
+  <img align="center" alt="Postman" height="60" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg">
+</div>
 
----
+<h2></h2>
 
-### 📊 Nível de domínio
-![Frontend](https://img.shields.io/badge/Frontend-90%25-brightgreen)
-![Backend](https://img.shields.io/badge/Backend-75%25-blue)
-![Banco de dados](https://img.shields.io/badge/DB-70%25-yellow)
-![Dev Tools](https://img.shields.io/badge/DevTools-80%25-orange)
+<br><br>
 
----
+<hr>
 
-### 📫 Contato
-- **Email:** [brunaroberta1290@gmail.com](mailto:brunaroberta1290@gmail.com)  
-- **LinkedIn:** [linkedin.com/in/bruna-roberta-a46541285](https://www.linkedin.com/in/bruna-roberta-a46541285)  
-- **GitHub:** [github.com/brunartt](https://github.com/brunartt)  
+<p align="left"> 
+➜ 💼 Desenvolvedora Fullstack (projetos próprios e acadêmicos)<br/>
+➜ 📚 Graduanda em Sistemas para Internet, na Universidade Católica de Pernambuco<br/>  
+➜ 💻 Sempre aprendendo novas tecnologias e criando projetos práticos<br/>
+</p>
 
-💡 Estou aberta a **novos desafios** e oportunidades para crescer como desenvolvedora Fullstack!
+<div align="left"> 
+  <h2> Quer me contatar? </h2>
+  <a href = "mailto:brunaroberta1290@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/bruna-roberta-a46541285" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href="https://github.com/brunartt" target="_blank"><img src="https://img.shields.io/badge/-GitHub-%23181717?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
+</div>
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0d730d&height=120&section=footer"/>
