@@ -1,8 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=300&color=ffcad4](https://capsule-render.vercel.app/api?type=waving&height=160&color=ffcad4&descAlign=0&descAlignY=0&fontAlign=0&fontAlignY=0"/> 
 <div align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=PT+Serif&weight=600&pause=1000&color=F4ACB7&width=435&lines=Me+chamo+Bruna+Roberta...;+Desenvolverora+FullStack...+;De+Recife+Brasil" alt="Typing SVG" />
-
-<br><br><br>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FFCAD4&width=435&lines=Ol%C3%A1!+me+chamo+Bruna+Roberta...;Desenvolvedora+FullStack..." alt="Typing SVG" />
 
 <div align="center">
   <a href="https://github.com/brunartt">
@@ -54,4 +52,4 @@
   <a href="https://github.com/brunartt" target="_blank"><img src="https://img.shields.io/badge/-GitHub-%23181717?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
 </div>
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0d730d&height=120&section=footer"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0d730d&height=120&section=footer](https://capsule-render.vercel.app/api?type=waving&height=160&color=ffcad4&descAlign=0&descAlignY=0&fontAlign=0&fontAlignY=0&section=footer"/>
