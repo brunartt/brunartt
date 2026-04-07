@@ -41,7 +41,7 @@
 
 <p align="left"> 
 ➜ 💼 Desenvolvedora Fullstack (projetos próprios e acadêmicos)<br/>
-➜ 📚 Graduanda em Sistemas para Internet, na Universidade Católica de Pernambuco<br/>  
+➜ 📚 Graduada em Sistemas para Internet, na Universidade Católica de Pernambuco<br/>  
 ➜ 💻 Sempre aprendendo novas tecnologias e criando projetos práticos<br/>
 </p>
 
